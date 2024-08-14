@@ -1,6 +1,9 @@
 REST API
 ### Setup
 ```sh
+$ git clone https://github.com/sagnikcapital/RESTAPI-In-Shell-Script.git
+```
+```sh
 $ chmod +x login.sh
 ```
 
