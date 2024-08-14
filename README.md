@@ -23,6 +23,7 @@ curl -X POST http://127.0.0.1:8080/login \
 ```json
 {
     "message": "Login successful",
-    "phone": "1234567890"
+    "phone": "1234567890",
+    "_token": "shyrjdndknsk78ndhyd87nsdmnskjdksjkkjdnkk:dksuj8njjdh"
 }
 ```
