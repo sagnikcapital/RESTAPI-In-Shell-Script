@@ -1,4 +1,4 @@
-REST API
+# REST API In Shell Script
 ### Setup
 ```sh
 $ git clone https://github.com/sagnikcapital/RESTAPI-In-Shell-Script.git
